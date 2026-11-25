@@ -76,7 +76,7 @@
 		"question": "<:question:416100711412137984>"
 	},
 	"role": {
-		"admin": ["420112323278143489"],
+		"admin": ["1039691179819814982"],
 		"manager": ["959380828838850590"],
 		"helper": ["729574996556382298"]
 	},
@@ -95,7 +95,7 @@
 		"1168797827464429618",
 		"1168797748343099444"
 	],
-	"owner": "184587051943985152",
+	"owner": "1039691179819814982",
 	"guildlink": "https://discord.com/invite/owobot",
 	"invitelink": "https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot",
 	"blacklist": {},
